@@ -3,7 +3,8 @@
 "Is the COVID-19 Outbreak Sensitive to the Time of Intervention? Evidence from Italy"
 Emanuele Borgonovo, Xuefei Lu(2020)
 
-* Author:Emanuele Borgonovo and Xuefei Lu, xuefei.lu@unibocconi.it
+* Author:
+ Emanuele Borgonovo emanuele.borgonovo@unibocconi.it and Xuefei Lu, xuefei.lu@unibocconi.it
 * Date: April, 2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 An example is given for demostration
